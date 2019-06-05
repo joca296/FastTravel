@@ -1,0 +1,26 @@
+body{
+    background-color: #f8f9fa;
+}
+.carousel h4 span, p span{
+    background-color: rgba(0,0,0,.7);
+}
+.content{
+    margin-top: 15px;
+}
+.content form .form-group{
+    margin-bottom: 15px;
+}
+#offers .card{
+    margin-bottom: 15px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+    background-color: rgba(0,0,0,.7);
+    font-size: x-large;
+    font-weight: bold;
+    color: white;
+}
